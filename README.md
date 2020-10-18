@@ -1,0 +1,1 @@
+Kod ma wypisywać na ekran liczby od 1 do 100.
